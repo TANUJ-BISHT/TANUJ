@@ -1,2 +1,2 @@
 # TANUJ
-just a try to make web. :)
+just a try to make web :)
